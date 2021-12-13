@@ -8,4 +8,4 @@ Data visulization using Seaborn library in python. The course consist of six les
 5. Distrubitions 
 6. Choosing Plot Types and Custom Styles 
 
-The final project of the course is visualzing (global terrosim data)[https://www.kaggle.com/START-UMD/gtd]. 
+The final project of the course is visualzing [global terrosim data](https://www.kaggle.com/START-UMD/gtd). 
